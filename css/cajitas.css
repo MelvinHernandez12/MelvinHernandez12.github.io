@@ -1,0 +1,150 @@
+
+body{
+    margin: 0%;
+}
+.A{
+    background-color: blue;
+    height: 490px;
+    width:960px ;
+    position: absolute;
+}
+.AA{
+    background-color: white;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+}
+.AB{
+    background-color: black;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-left: 480px;
+}
+.AC{
+    background-color:black;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+}
+.AD{
+    background-color: white;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 480px;
+}
+
+.B{
+    background-color: aqua;
+    height: 490px;
+    width:960px ;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 960px;
+}
+.BA{
+    background-color: blue;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+}
+.BB{
+    background-color: fuchsia;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-left: 480px;
+}
+.BC{
+    background-color:fuchsia;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+}
+.BD{
+    background-color: blue;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 480px;
+}
+.C{
+    background-color: fuchsia;
+    height: 490px;
+    width:960px ;
+    position: absolute;
+    margin-top: 490px;
+    margin-left: 0px;
+}
+.CA{
+    background-color:skyblue;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+}
+.CB{
+    background-color: green;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-left: 480px;
+}
+.CC{
+    background-color:green;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+}
+.CD{
+    background-color:skyblue;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 480px;
+}
+.D{
+    background-color: gold;
+    height: 490px;
+    width:960px ;
+    position: absolute;
+    margin-top: 490px;
+    margin-left: 960px;
+}
+.DA{
+    background-color: lightgreen;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+}
+.DB{
+    background-color: purple;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-left: 480px;
+}
+.DC{
+    background-color:purple;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+}
+.DD{
+    background-color: lightgreen;
+    height:245px ;
+    width:480px ;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 480px;
+}
+
+
+

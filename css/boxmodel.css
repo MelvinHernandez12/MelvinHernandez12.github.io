@@ -1,0 +1,255 @@
+header{
+    background-color: rgb(34, 109, 248);
+    text-align: center;
+}
+body{
+    background-color: rgb(134, 160, 93);
+    margin: 0%;
+}
+footer{
+    background-color: deepskyblue;
+}
+
+.A{
+    background-color: aqua;
+    width: 5px;
+    height: 5px; 
+    margin: 2px; ;
+}
+.B{
+    background-color: darkmagenta;
+    width:10PX ;
+    height:10PX ;
+    margin: 2px;
+}
+.C{
+    background-color: darkblue;
+    width: 15PX;
+    height: 15px;
+    margin: 2px;
+}
+.D{
+    background-color: deepskyblue;
+    width: 20PX;
+    height: 20px;
+    margin: 2px;
+}
+.E{
+    background-color: darkgreen;
+    width: 25PX;
+    height: 25px;
+    margin: 2px;
+}
+.F{
+    background-color: goldenrod;
+    width: 30PX;
+    height: 30px;
+    margin: 2px;
+}
+.G{
+    background-color: lavenderblush;
+    width: 35PX;
+    height: 35px;
+    margin: 2px;
+}
+.H{
+    background-color:orchid;
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+}
+.I{
+    background-color: gray;
+    width: 45px;
+    height: 45px;
+    margin: 2px;
+}
+.J{
+    background-color: crimson;
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+}
+.K{
+    background-color: dodgerblue;
+    width: 55px;
+    height: 55px;
+    margin: 2px;
+}
+.L{
+    background-color: chartreuse;
+    width: 60px;
+    height: 60px;
+    margin: 2px;
+}
+.M{
+    background-color: cadetblue;
+    width: 65px;
+    height: 65px;
+    margin: 2px;
+}
+.N{
+    background-color: gold;
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+}
+.Ñ{
+    background-color: aquamarine;
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+}
+.O{
+    background-color: darkcyan;
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+}
+.P{
+    background-color: darkviolet;
+    width: 85px;
+    height: 85px;
+    margin: 2px;
+}
+.Q{
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    margin: 2px;
+}
+.R{
+    background-color: cadetblue;
+    width: 95px;
+    height: 95px;
+    margin: 2px;
+}
+.S{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+.T{
+    background-color: fuchsia;
+    width: 105px;
+    height: 105px;
+    margin: 2px;
+}
+.U{
+    background-color: darkseagreen;
+    width: 110px;
+    height: 110px;
+    margin: 2px;
+}
+.V{
+    background-color: rgb(18, 18, 243);
+    width: 115px;
+    height: 115px;
+    margin: 2px;
+}
+.W{
+    background-color: darkslateblue;
+    width: 120px;
+    height: 120px;
+    margin: 2px;
+}
+.X{
+    background-color: violet;
+    width: 125px;
+    height: 125px;
+    margin: 2px;
+}
+.Y{
+    background-color: darkorange;
+    width: 130px;
+    height: 130px;
+    margin: 2px;
+}
+.Z{
+    background-color: lime;
+    width: 135px;
+    height: 135px;
+    margin: 2px;
+}
+.AB{
+    background-color: cyan;
+    width: 140px;
+    height: 140px;
+    margin: 2px;
+}
+.AC{
+    background-color: mediumpurple;
+    width: 145px;
+    height: 145px;
+    margin: 2px;
+}
+.AD{
+    background-color: lightgrey;
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+.AE{
+    background-color: darkgreen;
+    width: 155px;
+    height: 155px;
+    margin: 2px;
+}
+.AF{
+    background-color: hotpink;
+    width: 160px;
+    height: 160px;
+    margin: 2px;
+}
+.AG{
+    background-color: rgb(28, 28, 192);
+    width: 165px;
+    height: 165px;
+    margin: 2px;
+}
+.AH{
+    background-color: darkturquoise;
+    width: 170px;
+    height: 170px;
+    margin: 2px;
+}
+.AI{
+    background-color: green;
+    width: 175px;
+    height: 175px;
+    margin: 2px;
+}
+.AJ{
+    background-color: tomato;
+    width: 180px;
+    height: 180px;
+    margin: 2px;
+}
+.AK{
+    background-color: aquamarine;
+    width: 185px;
+    height: 185px;
+    margin: 2px;
+}
+.AL{
+    background-color: blueviolet;
+    width: 190px;
+    height: 190px;
+    margin: 2px;
+}
+.AM{
+    background-color: rgba(43, 37, 37, 0.205);
+    width: 195px;
+    height: 195px;
+    margin: 2px;
+}
+.AN{
+    background-color: darkviolet;
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius:  10%;
+}
+

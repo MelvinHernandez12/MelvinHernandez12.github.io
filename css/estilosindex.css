@@ -1,0 +1,91 @@
+body{background-color:rgb(56, 214, 253);
+    margin: 0%;
+    }
+span{
+    font-size: 300%;
+    text-align: center;
+    font-weight: 500;
+    font-family: Brush Script MT;
+}
+h2{
+    font-size: 250%;
+    font-weight: 300;
+    font-family: Brush Script MT;  
+}
+
+main{
+    text-align: center;
+}
+
+p{
+    font-weight: 900;
+}
+.derechos{
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;}
+
+h4{
+    font-size:150%;
+    font-weight: 600;
+}
+
+footer{
+    background-color: rgba(76, 108, 196, 0.712);
+   
+ 
+}
+header{
+    text-align: center;
+    background-color: rgba(25, 248, 155, 0.712);
+  
+}
+.servicios{
+color: rgb(6, 6, 235);
+}
+.publicidad{
+    color: rgb(6, 6, 235);
+}
+.ofrecemos{
+    color: rgba(2, 2, 2, 0.925);
+    font-style: oblique;
+}
+
+.a{
+background-color: dodgerblue; 
+width: 200px;
+height: 200px;
+position: relative;
+margin-left: 550px;
+border: 3px;
+border: black;
+border-style: solid;
+}
+
+.b{
+background-color:rgb(109, 30, 255);
+width: 200px;
+height: 200px;
+position: absolute;
+margin-left: 850px;
+margin-top: -200px;
+border: 3px;
+border: black;
+border-style: solid;
+
+}
+
+.c{
+background-color:green;
+width: 200px;
+height: 200px;
+margin-left: 1150px;
+position: absolute;
+margin-top: -200px;
+border: 3px;
+border: black;
+border-style: solid;
+
+
+}

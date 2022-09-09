@@ -1,0 +1,77 @@
+.a{
+    background-color: deepskyblue;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    overflow: auto;
+}
+.b{
+    background-color: darkgreen;
+    height: 200px;
+    width: 200px;
+    margin-top: 5px;
+    border-style: solid;
+    overflow: hidden;
+}
+.c{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-top: 5px;
+    border-style: solid;
+    overflow: scroll;
+}
+
+.d{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 20px;
+    border-radius: 0%;
+    border-style: solid;
+}
+
+.e{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 3px;
+    border-bottom-left-radius:50% ;
+    border-bottom-right-radius:50% ;
+    border-style: solid;
+}
+
+.f{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 3px;
+    border-radius: 50px 0% 50px 0%;
+    border-style: solid;
+}
+
+.g{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 3px;
+    border-radius: 0px 50% 0px 50%;
+    border-style: solid;
+}
+.h{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 3px;
+    border-radius: 500%;
+    border-style: solid;
+} 
+
+.i{
+    background-color: fuchsia;
+    height:100px ;
+    width:150px ;
+    margin-top: 3px;
+    border-radius:50px 50% 0px 0%;
+    border-style: solid;
+}

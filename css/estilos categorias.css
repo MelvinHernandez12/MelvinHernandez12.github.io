@@ -1,0 +1,63 @@
+body{background-color:rgb(56, 214, 253);
+margin: 0%;
+}
+span{
+    font-size: 300%;
+    text-align: center;
+    font-weight: 500;
+    font-family: Brush Script MT;
+}
+h2{
+    font-size: 250%;
+    font-weight: 300;
+    font-family: Brush Script MT;  
+}
+h3{
+    text-align: center;
+    font-style: inherit;
+    color: rgba(217, 240, 9, 0.918);  
+}
+p{
+    font-weight: 900;
+    color: rgb(11, 11, 12);
+    font-style: oblique;
+}
+.derechos{
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;}
+main{
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-color: rgba(25, 248, 155, 0.712);
+}
+h4{
+    font-size:150%;
+    font-weight: 600;
+}
+footer{
+    background-color: rgba(76, 108, 196, 0.712);
+}
+.mujeres{
+background-color: rgb(89, 45, 129);
+}
+.hombres{
+background-color: rgb(31, 62, 204);
+}
+.niñas{
+background-color: rgb(192, 65, 186);
+}
+.niños{
+background-color: rgba(4, 61, 18, 0.979);
+}
+.derechos{
+    font-style: normal;
+}
+.categorias{
+    font-size: 150%;
+    font-weight: 700;
+    font-family: serif;
+}

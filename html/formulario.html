@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <form >
+        <fieldset>
+            <legend>Datos Personales</legend>
+
+            <label>Nombre:
+            <input type="text"></label>
+
+            <label>Primer apellido:
+                <input type="text">
+            </label>
+
+            <label>Segundo apellido:
+                <input type="text">
+            </label>
+
+            <div><label>Dirección:
+                <input type="text">
+            </label></div><br>
+
+            <div><label >e-mail:
+                <input type="email">
+            </label></div><br>
+
+            <div><label >Contraseña:
+                <input type="password" placeholder="introduzca su contraseña">
+            </label></div><br>
+
+            <label >sexo</label><br>
+
+            <div><label>
+             <input type="radio"name="sexo">Varón   
+            </label></div>
+
+            <div><label>
+                <input type="radio"name="sexo">Mujer   
+               </label></div>
+
+        </fieldset>
+    
+        <fieldset>
+            <legend>Nivel de estudios e intereses</legend>
+
+            <label >Nivel de estudios</label><br>
+
+              <div> <label><input type="radio"name="nivel">Certificado escolar   
+            </label></div>
+   
+               <div><label>
+                   <input type="radio"name="nivel">Graduados en E.S.O.  
+                  </label></div>
+
+            <div><label>
+                <input type="radio"name="nivel">Bachller-Formación Profesional  
+               </label></div>
+   
+               <div><label>
+                   <input type="radio"name="nivel">Diplomado   
+                  </label></div>
+
+                  <div><label>
+                    <input type="radio"name="nivel">Licenciado o Doctorado 
+                   </label></div><br>
+
+                 <label>  Recibir artículos sobre los siguientes temas</label>
+
+                   <div><label>
+                    <input type="checkbox">Música
+                   </label></div>
+                   <div> <label>
+                    <input type="checkbox">Deportes
+                   </label></div>
+                   <div><label>
+                    <input type="checkbox">Cine
+                   </label></div>
+                   <div><label>
+                    <input type="checkbox">Libros
+                   </label></div>
+                   <div><label>
+                    <input type="checkbox">Ciencia
+                   </label></div>
+        </fieldset>
+
+            <fieldset>
+                <legend>Datos sobre la revista</legend>
+
+                <div><label>
+                    Frecuencia con la que se recibira la revista
+                </label></div><br>
+
+                <div><select>
+                    <option>Semanal </option>
+                    <option>Quincenal</option>
+                    <option>Mensual</option>
+                    <option>Bimensual</option>
+                </select></div><br>
+
+                <div><label>
+                    Puedes mandar tu articulo sobre cualquier tema de lo que tratamos.Nosotros lo valoraremos para que pueda ser publicado.
+                </label></div><br>
+
+                <label>
+                    <div><label >mandar artículo
+                        <input type="file" placeholder="seleccionar archivo">
+                    ningun archivo seleccionado</label></div><br>
+
+                        <label>Si deseas mandar simplemente una opinion y comentario escribelo aquí.</label>
+                        <label >
+                            <input type="text" placeholder="escribe tu comentario">
+                        </label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Comenzar de nuevo</legend>
+
+                <label>Borrar todos los datos del formulario y volvera empezar
+                  <input type="reset"> 
+                </label>
+                </fieldset>
+
+            <fieldset>
+                <legend>Enviar</legend>
+
+                <label>Enviar formulario por correo electronico:Al pulsar en el botón se abrirá la pagina de envio de correo:En esa página pulsa en enviar
+                  <input type="submit" value="enviar por correo">  
+                </label>
+            </fieldset>
+        </form>
+</body>
+</html>

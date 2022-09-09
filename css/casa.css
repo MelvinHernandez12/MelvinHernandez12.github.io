@@ -1,0 +1,222 @@
+.A{
+    background-color: aqua;
+    width: 150px;
+    height: 20px; 
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+}
+.B{
+    background-color: rgb(240, 9, 240);
+    width:130PX ;
+    height:130PX ;
+    margin-left: 10px;
+    
+    border-right-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+    border-bottom-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+    border-left-width: 2px;
+    border-style: solid;
+    border-color: black;
+} 
+.BA{
+    background-color: rgb(37, 14, 240);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 30PX;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+  
+} 
+.BB{
+    background-color: rgb(37, 14, 240);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-left: 90px;
+    margin-TOP: 70px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    
+} 
+.BC{
+    background-color: rgb(6, 97, 70);
+    width: 35px;
+    height: 45px;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 83px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;   
+}
+
+.C{
+    background-color: rgba(150, 150, 141, 0.411);
+    width: 250px;
+    height: 200px;
+    margin: 25px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(245, 16, 16);
+    text-shadow: 2px 2px 2px yellow;
+    font-size: 150%;
+
+}
+.D{
+    
+    background-color: rgba(82, 82, 77, 0.411);
+    width: 300px;
+    height: 200px;
+    margin: 0%;
+    border-width: 7px;
+    border-style: solid;
+    border-color: rgb(2, 77, 8);
+    color: aliceblue;
+    text-shadow: 2px 2px 2px gray;
+    font-size: 150%;
+    
+}
+
+.E{
+    background-color: aliceblue;
+    width: 700px;
+    height: 100px;
+    margin-top: 10PX;
+    border-width: 5px;
+    border-left-style: dashed;
+    border-left-color: rgb(29, 13, 245);
+    border-right-style: dashed;
+    border-right-color: rgb(243, 121, 8);
+    border-top-style: dotted;
+    border-top-color: green;
+    border-bottom-style:dotted ;
+    border-bottom-color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+.F{
+    background-color: aliceblue;
+    width: 700px;
+    height: 100px;
+    margin-top: 10PX;
+    border-width: 5px;
+    border-top-style:solid ;
+    border-top-color: rgb(8, 194, 240);
+    border-bottom-style: solid;
+    border-bottom-color:papayawhip;
+    border-left-style: groove;
+    border-left-width: 10px;
+    border-left-color:black ;
+    border-right-width: 10px;
+    border-right-style: groove;
+    border-right-color:black ;
+    text-align: center;
+    font-size: 30px;
+}
+
+.G{
+    background-color: aliceblue;
+    width: 700px;
+    height: 100px;
+    margin-top: 10PX;
+    border-width: 5px;
+    border-left-style: dashed;
+    border-left-color: rgb(29, 13, 245);
+    border-right-style: dashed;
+    border-right-color: rgb(243, 121, 8);
+    border-top-style: dotted;
+    border-top-color: green;
+    border-bottom-style:dotted ;
+    border-bottom-color: red;
+   
+}
+
+.GA{
+    background-color: aliceblue;
+    width: 600px;
+    height: 50px;
+    margin-top: 20PX;
+    margin-left: 40px;
+    border-width: 5px;
+    border-top-style:solid ;
+    border-top-color: rgb(8, 194, 240);
+    border-bottom-style: solid;
+    border-bottom-color:papayawhip;
+    border-left-style: groove;
+    border-left-width: 10px;
+    border-left-color:black ;
+    border-right-width: 10px;
+    border-right-style: groove;
+    border-right-color:black ;
+    text-align: center;
+    font-size: 25px;
+}
+
+.H{
+    background-color: aliceblue;
+    width: 700px;
+    height: 160px;
+    margin-top: 10PX;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.HA{
+    width: 680px;
+    height: 140px;
+    margin-top: 7PX;
+    margin-left: 8px;
+    border-width: 3px;
+    border-style: solid;
+}
+.HB{
+    width: 660px;
+    height: 120px;
+    margin-TOP: 7PX;
+    margin-left: 8px;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.HC{
+    width: 640px;
+    height: 100px;
+    margin-TOP: 7PX;
+    margin-left: 8px;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.HD{
+    width: 620px;
+    height: 80px;
+    margin-TOP: 7PX;
+    margin-left: 8px;
+    border-width: 3px;
+    border-style: solid;
+}
+.HE{
+    width: 600px;
+    height: 60px;
+    margin-TOP: 7PX;
+    margin-left: 8px;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+    font-size: 30px;
+}
+
+

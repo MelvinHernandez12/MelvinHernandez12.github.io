@@ -1,0 +1,110 @@
+body{background-color:rgb(56, 214, 253);
+    margin: 0%;
+    }
+span{
+    font-size: 300%;
+    text-align: center;
+    font-weight: 500;
+    font-family: Brush Script MT;
+}
+h2{
+    font-size: 250%;
+    font-weight: 300;
+    font-family: Brush Script MT;  
+}
+
+main{
+    text-align: center;
+}
+.derechos{
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;}
+
+h4{
+    font-size:150%;
+    font-weight: 600;
+}
+
+footer{
+    background-color: rgba(76, 108, 196, 0.712);
+   
+ 
+}
+header{
+    text-align: center;
+    background-color: rgba(25, 248, 155, 0.712);
+} 
+.a{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin-left: 100px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+.b{
+    background-color: rgb(233, 12, 233);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -225px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+.c{
+    background-color: rgb(2, 58, 30);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -225px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+.d{
+    background-color: rgb(223, 238, 11);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: -225px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+.e{
+    background-color: rgb(129, 12, 224);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: -225px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+.f{
+    background-color: rgb(77, 219, 11);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 1600px;
+    margin-top: -225px;
+    padding-top: 25px;
+    border: 3px;
+    border: black;
+    border-style: solid;
+}
+

@@ -1,0 +1,50 @@
+body{background-color:rgb(56, 214, 253);
+    margin: 0%;
+}
+span{
+    font-size: 300%;
+    text-align: center;
+    font-weight: 500;
+    font-family: Brush Script MT;
+}
+h2{
+    font-size: 250%;
+    font-weight: 300;
+    font-family: Brush Script MT;  
+}
+
+h3{
+    text-align: center;
+    font-style: inherit;
+    color: rgba(231, 19, 19, 0.918);  
+}
+.derechos{
+    font-weight: 100;
+    font-family: Arial;
+    font-size: 15px;
+    font-style: normal;
+    
+
+}
+main{
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-color: rgba(25, 248, 155, 0.712);
+}
+h4{
+    font-size:150%;
+    font-weight: 600;
+    
+}
+footer{
+    background-color: rgba(76, 108, 196, 0.712);}
+    .formulario{
+        color: crimson;
+        font-weight: 900;
+    }
+    .escribenos{
+        font-style: oblique;
+    }
+
